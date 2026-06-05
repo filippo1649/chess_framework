@@ -2,6 +2,10 @@
 
 > What if you could map a company's competitive position like a chess game? Where piece placement = strategic strength, and board position = market reality.
 
+![Python](https://img.shields.io/badge/Python-3.14-blue) ![Data Analysis](https://img.shields.io/badge/Analysis-Competitive%20Intelligence-green) ![Visualization](https://img.shields.io/badge/Viz-Interactive%20HTML-orange)
+
+---
+
 ## Origin
 
 I was building a dataset of AI companies — scoring them on funding, model count, risk exposure, market dominance, unique advantages, and ecosystem strength. Seven companies. Six dimensions. Straightforward spreadsheet work.
@@ -149,15 +153,17 @@ Interpretation: OpenAI is "attacking" but has exposure; Anthropic is defending t
 **Visualization:** Interactive HTML with CSS styling, no external charting library needed
 **Data Format:** CSV input, HTML output
 
+
 ---
 
-## Limitations 
+## Limitations
 
 **Current limitations:**
 - Scoring is partially qualitative (enterprise signals, unique models require judgment calls)
 - Not real-time — based on snapshot data from June 2026
 - Limited to 6 dimensions (could expand to 8-10 but readability decreases)
 
+---
 
 ## Attribution & Methodology
 
